@@ -3,4 +3,8 @@
  */
 public class azc {
     public int num;
+    public azc(int num)
+    {
+        this.num = num;
+    }
 }
